@@ -3,7 +3,7 @@ A desktop app that automatically scrapes Facebook Marketplace for deals.
 
 Built with Electron, Typescript, Vue.js, Selenium, and TailwindCSS!
 
-![image](https://github.com/JaryJay/facebook-bot/assets/47123100/96849a80-c3bd-489a-8e77-34ab0829fc2b)
+![image](https://github.com/dkaty123/facebook-bot/assets/47123100/96849a80-c3bd-489a-8e77-34ab0829fc2b)
 
 ## Features
 
@@ -31,7 +31,7 @@ Finall, run `npm install` to install all necessary packages, such as Electron, S
 
 Putting all of the commands into a neat snippet:
 ```console
-git clone https://github.com/JaryJay/facebook-bot
+git clone https://github.com/dkaty123/facebook-bot
 cd facebook-bot
 npm install
 ```
