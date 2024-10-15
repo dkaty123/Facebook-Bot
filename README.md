@@ -19,7 +19,7 @@ To get Facebook Bot on your computer, first clone this repository.
 
 Git:
 ```console
-git clone https://github.com/JaryJay/facebook-bot
+git clone https://github.com/dkaty123/facebook-bot
 ```
 Alternatively, you can use [GitHub Desktop](https://desktop.github.com/).
 
