@@ -3,7 +3,7 @@ A desktop app that automatically scrapes Facebook Marketplace for deals.
 
 Built with Electron, Typescript, Vue.js, Selenium, and TailwindCSS!
 
-![image](https://github.com/dkaty123/facebook-bot/assets/47123100/96849a80-c3bd-489a-8e77-34ab0829fc2b)
+![296519502-96849a80-c3bd-489a-8e77-34ab0829fc2b](https://github.com/user-attachments/assets/8123abda-a974-473d-b185-98b3cb0a2e6e)
 
 ## Features
 
