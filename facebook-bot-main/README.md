@@ -40,4 +40,4 @@ npm install
 
 Run `npm run dev` to run the project in dev mode.
 
-Run `npm run build` to create an installer for your OS. (Note: for some reason, Selenium stops working when you use the built version of Facebook Bot. Only dev mode works right now :P)
+Run `npm run build` to create an installer for your OS. (Note: for some reason, Selenium stops working when you use the built version of Facebook Bot. 
