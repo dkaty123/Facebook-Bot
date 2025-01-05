@@ -1,5 +1,6 @@
-# Facebook Bot
-A desktop app that automatically scrapes Facebook Marketplace for deals.
+# QuickScape
+
+Searches FB marketplace for the best deals!
 
 Built with Electron, Typescript, Vue.js, Selenium, and TailwindCSS!
 
